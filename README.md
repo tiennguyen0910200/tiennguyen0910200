@@ -5,7 +5,7 @@
 #### I like traveling and taking the photo👯
 ##### Contact with me to know more😄
 
-<div>![a](https://media.giphy.com/media/U3smyJhYEJiyrcw8CL/giphy.gif)</div>
+![a](https://media.giphy.com/media/U3smyJhYEJiyrcw8CL/giphy.gif)
 
 
 <!--
