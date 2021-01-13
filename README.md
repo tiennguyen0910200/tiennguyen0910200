@@ -1,8 +1,12 @@
-### Hi there 👋 My name is [Tien](https://www.facebook.com/09102k/) ![a](https://media.giphy.com/media/U3smyJhYEJiyrcw8CL/giphy.gif)
+<div style = "display:flex"><div>
+### Hi there 👋 My name is [Tien](https://www.facebook.com/09102k/) 
 #### I come from Da Nang city
 #### My birthday is October 9th,2000
 #### I like traveling and taking the photo👯
 ##### Contact with me to know more😄
+ </div>
+<div>![a](https://media.giphy.com/media/U3smyJhYEJiyrcw8CL/giphy.gif)</div>
+</div>
 
 <!--
 **tiennguyen0910200/tiennguyen0910200** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
