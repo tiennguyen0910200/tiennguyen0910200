@@ -1,11 +1,10 @@
 
 ### Hi there 👋 My name is [Tien](https://www.facebook.com/09102k/) 
 #### I come from Da Nang city
-#### My birthday is October 9th,2000
+#### My birthday is October 9th,2000 ![a](https://media.giphy.com/media/U3smyJhYEJiyrcw8CL/giphy.gif)
 #### I like traveling and taking the photo👯
 ##### Contact with me to know more😄
 
-![a](https://media.giphy.com/media/U3smyJhYEJiyrcw8CL/giphy.gif)
 
 
 <!--
